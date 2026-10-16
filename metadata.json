@@ -1,0 +1,8 @@
+{
+  "name": "Doocs MD 灵动排版与多平台发布器",
+  "description": "多元化智能 Markdown 编辑器与多平台一键排版发布工具，支持微信公众号、知乎、小红书一键排版，内置丰富模板与 AI 智能润色。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
